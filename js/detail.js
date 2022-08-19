@@ -5,7 +5,57 @@ let items;
 let item;
 async function loadItem()
 {
-    items=await fetch('/data/items.json').then((response) => response.json());
+    //items=await fetch('/data/items.json').then((response) => response.json());
+    items=[
+      {
+          "name":"Nombre",
+          "desc":"<p>Descripción de un producto cualquier un poco más larga. Para ver cómo queda el texto si alguien quiere describirlo todo bien.</p><p>Esto es otro párrafo, por si fuese necesario.</p>",
+          "price": 5.0,
+          "images":["https://picsum.photos/500?rnd=0","https://picsum.photos/500?rnd=10","https://picsum.photos/500?rnd=110","https://picsum.photos/500?rnd=1110"]
+      },
+      {
+          "name":"Nombre 1",
+          "desc":"Descripción 1",
+          "price": 2.0,
+          "images":["https://picsum.photos/500?rnd=1"]
+      },
+      {
+          "name":"Nombre 2",
+          "desc":"Descripción 2",
+          "price": 6.0,
+          "images":["https://picsum.photos/500?rnd=2"]
+      },
+      {
+          "name":"Nombre 3",
+          "desc":"Descripción 3",
+          "price": 10.0,
+          "images":["https://picsum.photos/500?rnd=3"]
+      },
+      {
+          "name":"Nombre 4",
+          "desc":"Descripción 4",
+          "price": 12.0,
+          "images":["https://picsum.photos/500?rnd=4"]
+      },
+      {
+          "name":"Nombre 5",
+          "desc":"Descripción 5",
+          "price": 4.0,
+          "images":["https://picsum.photos/500?rnd=5"]
+      },
+      {
+          "name":"Nombre 6",
+          "desc":"Descripción 6",
+          "price": 25.0,
+          "images":["https://picsum.photos/500?rnd=6"]
+      },
+      {
+          "name":"Nombre 7",
+          "desc":"Descripción 7",
+          "price": 8.0,
+          "images":["https://picsum.photos/500?rnd=7"]
+      }
+  ];
 
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
