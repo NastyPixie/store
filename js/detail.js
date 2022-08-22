@@ -1,6 +1,3 @@
-
-
-
 let items;
 let item;
 async function loadItem()
@@ -54,9 +51,7 @@ async function loadItem()
 
 $( document ).ready(function() {
 
-  
-
-    console.log( "ready!" );
+    //console.log( "ready!" );
     loadItem();
 });
 

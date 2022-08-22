@@ -1,5 +1,3 @@
-
-
 let items;
 async function loadItems()
 {
@@ -8,7 +6,7 @@ async function loadItems()
 }
 
 function processItems()
-{   console.log( "processItems!" );
+{   //console.log( "processItems!" );
     let html='';
 $("#items").empty();
 items.forEach((item,index)=>{
@@ -27,7 +25,7 @@ $("#items").append(html);
 }
 
 $( document ).ready(function() {
-    console.log( "ready!" );
+    //console.log( "ready!" );
     loadItems();
 });
 
