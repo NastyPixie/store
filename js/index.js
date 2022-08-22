@@ -10,7 +10,7 @@ function processItems()
     let html='';
 $("#items").empty();
 items.forEach((item,index)=>{
-    let itemTemplate=`<div class="col item-holder" onclick="window.location='detail.html?item=${index}'">
+    let itemTemplate=`<div class="col item-holder" onclick="window.location='detail?item=${index}'">
 <div class="card" title="${item.desc}">
     <img src="${item.images[0]}" class="card-img">
     <div class="card-img-overlay">
