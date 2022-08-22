@@ -1,0 +1,10 @@
+[
+    {"name":"Unique","acronym":"UNIQUE"},
+    {"name":"Xtra Small","acronym":"XS"},
+    {"name":"Small","acronym":"S"},
+    {"name":"Medium","acronym":"M"},
+    {"name":"Large","acronym":"L"},
+    {"name":"Xtra Large","acronym":"XL"},
+    {"name":"Xtra Xtra Large","acronym":"XXL"},
+    {"name":"Xtra Xtra Xtra Large","acronym":"XXXL"}
+]
