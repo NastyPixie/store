@@ -119,3 +119,11 @@ textarea {
 .swiper-pagination-bullet-active {
   opacity: 1;
 }
+
+.margin-top{
+  margin-top: 15px;
+}
+
+.black{
+  font-weight: bolder;
+}
