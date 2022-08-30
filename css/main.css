@@ -36,6 +36,12 @@ body {
 
 .footer a {
   text-decoration: none;
+  transition: all 0.5s ease-out;
+}
+
+
+.footer a:hover {
+  color:rgb(22, 255, 166)!important;
 }
 
 .navbar-brand {
@@ -68,8 +74,19 @@ a {
   color: white !important;
 }
 
+.nav-link{
+  transition: all 0.5s ease-out;
+}
+
 .nav-link.active {
   font-weight: bold;
+  color:rgb(22, 255, 166)!important;
+  text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
+}
+
+.nav-link:not(.active):hover {
+  color:rgb(22, 255, 166)!important;
+  text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
 }
 
 .content {
