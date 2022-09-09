@@ -14,7 +14,7 @@ items.forEach((item,index)=>{
 <div class="card" title="${item.desc}">
     <img src="${item.images[0]}" class="card-img">
     <div class="card-img-overlay">
-        <h5 class="card-title">${item.name}</h5>
+        <h5 class="card-title vip-text">${item.name}</h5>
         <div class="price">${item.price}€</div>
       </div>
   </div>
