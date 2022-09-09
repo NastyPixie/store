@@ -1,7 +1,7 @@
 let items;
 async function loadItems()
 {
-    items=await fetch('data/items.json').then((response) => response.json());
+    items=await fetch('data/items-real.json').then((response) => response.json());
     processItems();
 }
 

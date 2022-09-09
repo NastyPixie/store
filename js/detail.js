@@ -2,7 +2,7 @@ let items;
 let item;
 async function loadItem()
 {
-    items=await fetch('data/items.json').then((response) => response.json());
+    items=await fetch('data/items-real.json').then((response) => response.json());
    
 
     const queryString = window.location.search;
@@ -27,7 +27,7 @@ async function loadItem()
     $('.swiper-wrapper').empty();
     item.images.forEach(image => {
 
-         $('.swiper-wrapper').append(`<div class="swiper-slide"><div class="swiper-zoom-container"><img class="swiper-zoom-target" src='${image}'></div></div>`);
+         $('.swiper-wrapper').append(`<div class="swiper-slide"><div class="swiper-zoom-container"><img class="swiper-zoom-target" width="500px" src='${image}'></div></div>`);
     });
 
 
