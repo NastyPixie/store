@@ -2,7 +2,7 @@ let items;
 let item;
 async function loadItem()
 {
-    items=await fetch('data/items-real.json').then((response) => response.json());
+    items=await fetch('data/items-prod.json').then((response) => response.json());
    
 
     const queryString = window.location.search;

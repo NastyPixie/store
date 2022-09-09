@@ -1,0 +1,12 @@
+[
+    {"id":"TAZA","name":"Tazas","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"BOTELLA","name":"Botellas de Aluminio","desc":"Botellas de aluminio personalizables"},
+    {"id":"MOCHILA","name":"Mochilas Saco","desc":"Mochilas de cuerda personalizables de diferentes tamaños."},
+    {"id":"ESCOLAR","name":"Escolar","desc":"Estuches y mochilas de asas personalizables"},
+    {"id":"NECESER","name":"Neceseres","desc":"Neceseres"},
+    {"id":"CAMISETA","name":"Camisetas","desc":"Camisetas"},
+    {"id":"GORRO","name":"Gorros","desc":"Gorros"},
+    {"id":"PULSERA","name":"Pulseras Celebración","desc":"Pulseras personalizables para celebraciones como bautizos, comuniones, bodas o despedidas."},
+    {"id":"ALFOMBRILLA","name":"Alfombrillas Ratón","desc":"Alfombrillas para ratón personalizables"},
+    {"id":"LLAVERO","name":"Llaveros","desc":"Llaveros personalizables"}
+]
