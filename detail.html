@@ -1,90 +1,111 @@
 <!DOCTYPE html>
 <html lang="en" class="dark">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="img/nasty-pixie.svg" type="image/x-icon">
-    <meta name="color-scheme" content="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="img/nasty-pixie.svg" type="image/x-icon" />
+    <meta name="color-scheme" content="dark" />
     <title>Nasty Pixie</title>
 
-    <link href="lib/bootstrap-5.0.1/darkmode/bootstrap-nightshade.min.css" rel="stylesheet">
-    <link href="lib/swipper 8.2.4/swiper-bundle.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/main.css">
-</head>
-<body>
+    <link
+      href="lib/bootstrap-5.0.1/darkmode/bootstrap-nightshade.min.css"
+      rel="stylesheet"
+    />
+    <link href="lib/swipper 8.2.4/swiper-bundle.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/main.css" />
 
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-VSF9576KNN"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-VSF9576KNN");
+    </script>
+  </head>
+  <body>
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="index.html">
-                <img src="img/nasty-pixie.svg" alt="Nasty Pixie" title="Nasty Pixie" class="d-inline-block align-text-top">
-                <span class="nav-title">Nasty Pixie</span>
-              </a>
-              <button class="navbar-toggler" type="button" onclick="toggleNav()" data-bs-toggle="collapse" data-bs-target="#toggleNav" aria-controls="toggleNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <div class="collapse navbar-collapse" id="toggleNav">
-                <div class="navbar-nav ms-auto">
-                  <a class="nav-link" href="index.html">Artículos</a>
-                  <a class="nav-link" href="about.html">Sobre Nosotros</a>
-                  <a class="nav-link" href="contact.html">Contacto</a>
-                  <a class="nav-link" href="orderpolicy.html">Envíos</a>
-              </div>
-            </div>
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">
+          <img
+            src="img/nasty-pixie.svg"
+            alt="Nasty Pixie"
+            title="Nasty Pixie"
+            class="d-inline-block align-text-top"
+          />
+          <span class="nav-title">Nasty Pixie</span>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          onclick="toggleNav()"
+          data-bs-toggle="collapse"
+          data-bs-target="#toggleNav"
+          aria-controls="toggleNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="toggleNav">
+          <div class="navbar-nav ms-auto">
+            <a class="nav-link" href="index.html">Artículos</a>
+            <a class="nav-link" href="about.html">Sobre Nosotros</a>
+            <a class="nav-link" href="contact.html">Contacto</a>
+            <a class="nav-link" href="orderpolicy.html">Envíos</a>
+          </div>
         </div>
-      </nav>
-
-      <div class="container-fluid content">
-
-   
-
       </div>
+    </nav>
 
+    <div class="container-fluid content"></div>
 
-
-      <div class="container-fluid content">
-        <div class="row">
-            <div class="col-sm-12"><h2 class="text-center margin-vertical vip-text" id="itemName">Título Nasty Pixie</h2></div>
-            
+    <div class="container-fluid content">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2 class="text-center margin-vertical vip-text" id="itemName">
+            Título Nasty Pixie
+          </h2>
         </div>
-        <div class="row">
-          <div class="col-sm-12 col-md-6">
-             <!-- Slider main container -->
-    <div class="swiper item-gallery ">
-        <!-- Additional required wrapper -->
-        <div class="swiper-wrapper">
-        <!-- Slides -->
-        <div class="swiper-slide">Slide 1</div>
-        <div class="swiper-slide">Slide 2</div>
-        <div class="swiper-slide">Slide 3</div>
-        ...
+      </div>
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <!-- Slider main container -->
+          <div class="swiper item-gallery">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+              <!-- Slides -->
+              <div class="swiper-slide">Slide 1</div>
+              <div class="swiper-slide">Slide 2</div>
+              <div class="swiper-slide">Slide 3</div>
+              ...
+            </div>
+            <!-- If we need pagination -->
+            <div class="swiper-pagination"></div>
+          </div>
         </div>
-        <!-- If we need pagination -->
-        <div class="swiper-pagination"></div>
-
+        <div class="col">
+          <div class="row">
+            <div class="col-md-12" id="itemDesc">Column</div>
+            <div class="col-md-12" id="itemPrice">Column</div>
+          </div>
+        </div>
+      </div>
     </div>
-          </div>
-          <div class="col">
-            <div class="row">
-                <div class="col-md-12" id="itemDesc">
-                  Column
-                </div>
-                <div class="col-md-12 " id="itemPrice">
-                  Column
-                </div>
-              </div>
-          </div>
-        </div>
+    <div class="empty-30"></div>
+
+    <nav class="footer navbar fixed-bottom navbar-dark bg-dark">
+      <div class="footer-center vip-text">
+        <a href="mailto:nastypixie@nastypixie.com">Nasty Pixie 2022</a>
       </div>
-      <div class="empty-30"></div>
-
-
-
-      <nav class="footer navbar fixed-bottom navbar-dark bg-dark">
-            <div class="footer-center vip-text">
-                <a href="mailto:nastypixie@nastypixie.com">Nasty Pixie 2022</a>
-            </div>
-      </nav>
+    </nav>
 
     <script src="lib/jquery-3.6.0/jquery-3.6.0.min.js"></script>
     <script src="lib/popperjs-2.9.2/popper.min.js"></script>
@@ -92,5 +113,5 @@
     <script src="lib/swipper 8.2.4/swiper-bundle.min.js"></script>
     <script src="js/nav.js"></script>
     <script src="js/detail.js"></script>
-</body>
+  </body>
 </html>

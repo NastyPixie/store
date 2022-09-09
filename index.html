@@ -1,49 +1,85 @@
 <!DOCTYPE html>
 <html lang="en" class="dark">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="img/nasty-pixie.svg" type="image/x-icon">
-    <meta name="color-scheme" content="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="img/nasty-pixie.svg" type="image/x-icon" />
+    <meta name="color-scheme" content="dark" />
     <title>Nasty Pixie - Artículos</title>
 
-    <link href="lib/bootstrap-5.0.1/darkmode/bootstrap-nightshade.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/main.css">
-</head>
-<body>
+    <link
+      href="lib/bootstrap-5.0.1/darkmode/bootstrap-nightshade.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/main.css" />
 
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-VSF9576KNN"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-VSF9576KNN");
+    </script>
+  </head>
+  <body>
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">
-                <img src="img/nasty-pixie.svg" alt="Nasty Pixie" title="Nasty Pixie" class="d-inline-block align-text-top">
-                <span class="nav-title">Nasty Pixie</span>
-              </a>
-              <button class="navbar-toggler" type="button" onclick="toggleNav()" data-bs-toggle="collapse" data-bs-target="#toggleNav" aria-controls="toggleNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <div class="collapse navbar-collapse" id="toggleNav">
-                <div class="navbar-nav ms-auto">
-                  <a class="nav-link active" aria-current="page" href="#">Artículos</a>
-                  <a class="nav-link" href="about.html">Sobre Nosotros</a>
-                  <a class="nav-link" href="contact.html">Contacto</a>
-                  <a class="nav-link" href="orderpolicy.html">Envíos</a>
-              </div>
-            </div>
-        </div>
-      </nav>
-
-      <div class="container-fluid item-container">
-        <div class="row row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4" id="items">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img
+            src="img/nasty-pixie.svg"
+            alt="Nasty Pixie"
+            title="Nasty Pixie"
+            class="d-inline-block align-text-top"
+          />
+          <span class="nav-title">Nasty Pixie</span>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          onclick="toggleNav()"
+          data-bs-toggle="collapse"
+          data-bs-target="#toggleNav"
+          aria-controls="toggleNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="toggleNav">
+          <div class="navbar-nav ms-auto">
+            <a class="nav-link active" aria-current="page" href="#"
+              >Artículos</a
+            >
+            <a class="nav-link" href="about.html">Sobre Nosotros</a>
+            <a class="nav-link" href="contact.html">Contacto</a>
+            <a class="nav-link" href="orderpolicy.html">Envíos</a>
           </div>
+        </div>
       </div>
-      <footer class="footer bg-dark vip-text"><a href="mailto:nastypixie@nastypixie.com">Nasty Pixie 2022</a></footer>
-     
+    </nav>
+
+    <div class="container-fluid item-container">
+      <div
+        class="row row-cols-1 row-cols-xs-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4"
+        id="items"
+      ></div>
+    </div>
+    <footer class="footer bg-dark vip-text">
+      <a href="mailto:nastypixie@nastypixie.com">Nasty Pixie 2022</a>
+    </footer>
 
     <script src="lib/jquery-3.6.0/jquery-3.6.0.min.js"></script>
     <script src="lib/popperjs-2.9.2/popper.min.js"></script>
     <script src="lib/bootstrap-5.0.1/darkmode/darkmode.min.js"></script>
     <script src="js/nav.js"></script>
     <script src="js/index.js"></script>
-</body>
+  </body>
 </html>
