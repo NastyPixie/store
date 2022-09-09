@@ -1,0 +1,58 @@
+[
+    {
+        "name":"Taza Big Mouth",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Big Mouth'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/bm.jpg",
+        "images":["/data/images/bm1.jpg","/data/images/bm2.jpg","/data/images/bm3.jpg"]
+    },
+    {
+        "name":"Taza Full Metal Alchemist",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Full Metal Alchemist'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/fma.jpg",
+        "images":["/data/images/fma1.jpg","/data/images/fma2.jpg","/data/images/fma3.jpg"]
+    },
+    {
+        "name":"Taza Hollow Knight (A)",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hollow Knight'. Modelo tipo A.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hk.jpg",
+        "images":["/data/images/hk1.jpg","/data/images/hk2.jpg","/data/images/hk3.jpg"]
+    },
+    {
+        "name":"Taza Hollow Knight (B)",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hollow Knight'. Modelo tipo B.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hkB.jpg",
+        "images":["/data/images/hkB3.jpg","/data/images/hkB2.jpg","/data/images/hkB1.jpg"]
+    },
+    {
+        "name":"Taza Rick y Morty",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Rick y Morty'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/rm.jpg",
+        "images":["/data/images/rm1.jpg","/data/images/rm2.jpg","/data/images/rm3.jpg"]
+    },
+    {
+        "name":"Taza One Piece",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'One Piece'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/op.jpg",
+        "images":["/data/images/op1.jpg","/data/images/op2.jpg","/data/images/op3.jpg"]
+    },
+    {
+        "name":"Taza She-Hulk",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'She-Hulk'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hulka.jpg",
+        "images":["/data/images/hulka1.jpg","/data/images/hulka2.jpg","/data/images/hulka3.jpg"]
+    },
+    {
+        "name":"Taza Nasty Pixie",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Nasty Pixie'.</p><p>Esta es la taza oficial 'NastyPixie' 100% original. Podrás recibir esta taza como regalo si realizas un pedido lo suficientemente grande. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/np.jpg",
+        "images":["/data/images/np1.jpg","/data/images/np2.jpg","/data/images/np3.jpg"]
+    }
+]
