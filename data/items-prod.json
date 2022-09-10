@@ -54,5 +54,12 @@
         "price": 8.0,
         "thumbnail":"/data/images/np.jpg",
         "images":["/data/images/np1.jpg","/data/images/np2.jpg","/data/images/np3.jpg"]
+    },
+    {
+        "name":"Alfombrilla Personalizada",
+        "desc":"<p>Alfombrilla de ratón de 22cm de ancho y 18cm de alto. Este artículo será personalizado con tu imagen preferida.</p>",
+        "price": 6.0,
+        "thumbnail":"/data/images/mousepad.jpg",
+        "images":["/data/images/mousepad1.jpg","/data/images/mousepad2.jpg","/data/images/mousepad3.jpg","/data/images/mousepad4.jpg","/data/images/mousepad5.jpg"]
     }
 ]
