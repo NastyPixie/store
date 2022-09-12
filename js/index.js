@@ -9,8 +9,13 @@ function processItems()
 {   //console.log( "processItems!" );
     let html='';
 $("#items").empty();
-items.forEach((item,index)=>{
-    let itemTemplate=`<div class="col item-holder" onclick="window.location='detail.html?item=${index}'">
+
+var shuffledItems=[...items];
+
+shuffleArray(shuffledItems);
+
+shuffledItems.forEach((item,index)=>{
+    let itemTemplate=`<div class="col item-holder" onclick="window.location='detail.html?item=${item.id}'">
 <div class="card" title="${item.name}">
     <img src="${item.thumbnail}" class="card-img">
     <div class="card-img-overlay">
@@ -30,4 +35,12 @@ $( document ).ready(function() {
     loadItems();
 });
 
-
+/* Randomize array in-place using Durstenfeld shuffle algorithm */
+const shuffleArray = array => {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      const temp = array[i];
+      array[i] = array[j];
+      array[j] = temp;
+    }
+  }

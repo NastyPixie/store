@@ -1,5 +1,6 @@
 [
     {
+        "id":0,
         "name":"Taza Big Mouth",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Big Mouth'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -7,6 +8,7 @@
         "images":["/data/images/bm1.jpg","/data/images/bm2.jpg","/data/images/bm3.jpg"]
     },
     {
+        "id":1,
         "name":"Taza Full Metal Alchemist",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Full Metal Alchemist'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -14,6 +16,7 @@
         "images":["/data/images/fma1.jpg","/data/images/fma2.jpg","/data/images/fma3.jpg"]
     },
     {
+        "id":2,
         "name":"Taza Hollow Knight (A)",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hollow Knight'. Modelo tipo A.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -21,6 +24,7 @@
         "images":["/data/images/hk1.jpg","/data/images/hk2.jpg","/data/images/hk3.jpg"]
     },
     {
+        "id":3,
         "name":"Taza Hollow Knight (B)",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hollow Knight'. Modelo tipo B.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -28,6 +32,7 @@
         "images":["/data/images/hkB3.jpg","/data/images/hkB2.jpg","/data/images/hkB1.jpg"]
     },
     {
+        "id":4,
         "name":"Taza Rick y Morty",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Rick y Morty'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -35,6 +40,7 @@
         "images":["/data/images/rm1.jpg","/data/images/rm2.jpg","/data/images/rm3.jpg"]
     },
     {
+        "id":5,
         "name":"Taza One Piece",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'One Piece'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -42,6 +48,7 @@
         "images":["/data/images/op1.jpg","/data/images/op2.jpg","/data/images/op3.jpg"]
     },
     {
+        "id":6,
         "name":"Taza She-Hulk",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'She-Hulk'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -49,6 +56,7 @@
         "images":["/data/images/hulka1.jpg","/data/images/hulka2.jpg","/data/images/hulka3.jpg"]
     },
     {
+        "id":7,
         "name":"Taza Nasty Pixie",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Nasty Pixie'.</p><p>Esta es la taza oficial 'NastyPixie' 100% original. Podrás recibir esta taza como regalo si realizas un pedido lo suficientemente grande. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -56,10 +64,91 @@
         "images":["/data/images/np1.jpg","/data/images/np2.jpg","/data/images/np3.jpg"]
     },
     {
+        "id":8,
         "name":"Alfombrilla Personalizada",
-        "desc":"<p>Alfombrilla de ratón de 22cm de ancho y 18cm de alto. Este artículo será personalizado con tu imagen preferida.</p>",
+        "desc":"<p>Alfombrilla de ratón de 22cm de ancho y 18cm de alto. Tiene una superficie de tela texturizada y una base antideslizante de alta densidad.</p><p>Este artículo será personalizado con tu imagen preferida.</p>",
         "price": 6.0,
         "thumbnail":"/data/images/mousepad.jpg",
         "images":["/data/images/mousepad1.jpg","/data/images/mousepad2.jpg","/data/images/mousepad3.jpg","/data/images/mousepad4.jpg","/data/images/mousepad5.jpg"]
+    },
+    {
+        "id":9,
+        "name":"Mochila Saco Cuphead (A)",
+        "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Cuphead' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
+        "price": 15.0,
+        "thumbnail":"/data/images/mochila_cup.jpg",
+        "images":["/data/images/mochila_cup1.jpg"]
+    },
+    {
+        "id":10,
+        "name":"Mochila Saco Cuphead (B)",
+        "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Cuphead' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
+        "price": 15.0,
+        "thumbnail":"/data/images/mochila_cupB.jpg",
+        "images":["/data/images/mochila_cupB1.jpg"]
+    },
+    {
+        "id":11,
+        "name":"Mochila Saco Hollow Knight (A)",
+        "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Hollow Knight' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
+        "price": 15.0,
+        "thumbnail":"/data/images/mochila_hk.jpg",
+        "images":["/data/images/mochila_hk1.jpg"]
+    },
+    {
+        "id":12,
+        "name":"Mochila Saco Hollow Knight (B)",
+        "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Hollow Knight' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
+        "price": 15.0,
+        "thumbnail":"/data/images/mochila_hkB.jpg",
+        "images":["/data/images/mochila_hkB1.jpg"]
+    },
+    {
+        "id":13,
+        "name":"Mochila Saco Rick y Morty",
+        "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Rick y Morty' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
+        "price": 15.0,
+        "thumbnail":"/data/images/mochila_rm.jpg",
+        "images":["/data/images/mochila_rm1.jpg"]
+    },
+    {
+        "id":14,
+        "name":"Mochila Saco Stranger Things",
+        "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Stranger Things' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
+        "price": 15.0,
+        "thumbnail":"/data/images/mochila_st.jpg",
+        "images":["/data/images/mochila_st1.jpg"]
+    },
+    {
+        "id":15,
+        "name":"Gorro Cuphead",
+        "desc":"<p>Gorro invernal blanco 95% poliester, 5% elastano, con tejido de coralina o tipo sudadera en el interior, decorado con motivo 'Cuphead'. </p><p>Tiene un tallaje universal para adulto.</p><p>Sus dimensiones aproximadas son 19 cm de alto y 27cm cm de ancho.</p>",
+        "price": 5.0,
+        "thumbnail":"/data/images/gorro_cup.jpg",
+        "images":["/data/images/gorro_cup1.jpg"]
+    },
+    {
+        "id":16,
+        "name":"Gorro Rick y Morty",
+        "desc":"<p>Gorro invernal blanco 95% poliester, 5% elastano, con tejido de coralina o tipo sudadera en el interior, decorado con motivo 'Rick y Morty'. </p><p>Tiene un tallaje universal para adulto.</p><p>Sus dimensiones aproximadas son 19 cm de alto y 27cm cm de ancho.</p>",
+        "price": 5.0,
+        "thumbnail":"/data/images/gorro_rm.jpg",
+        "images":["/data/images/gorro_rm1.jpg"]
+    },
+    {
+        "id":17,
+        "name":"Gorro Jack Skelleton",
+        "desc":"<p>Gorro invernal blanco 95% poliester, 5% elastano, con tejido de coralina o tipo sudadera en el interior, decorado con motivo 'Jack Skelleton'. </p><p>Tiene un tallaje universal para adulto.</p><p>Sus dimensiones aproximadas son 19 cm de alto y 27cm cm de ancho.</p>",
+        "price": 5.0,
+        "thumbnail":"/data/images/gorro_jack.jpg",
+        "images":["/data/images/gorro_jack1.jpg"]
+    },
+    {
+        "id":18,
+        "name":"Gorro Casa Targaryen",
+        "desc":"<p>Gorro invernal blanco 95% poliester, 5% elastano, con tejido de coralina o tipo sudadera en el interior, decorado con motivo 'Casa Targaryen'. </p><p>Tiene un tallaje universal para adulto.</p><p>Sus dimensiones aproximadas son 19 cm de alto y 27cm cm de ancho.</p>",
+        "price": 5.0,
+        "thumbnail":"/data/images/gorro_targaryen.jpg",
+        "images":["/data/images/gorro_targaryen1.jpg"]
     }
 ]

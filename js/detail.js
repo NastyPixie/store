@@ -9,13 +9,15 @@ async function loadItem()
     const urlParams = new URLSearchParams(queryString);
     
 
-    const idx=parseInt(urlParams.get('item'));
+    const id=parseInt(urlParams.get('item'));
 
-    if(!items[idx]){
+    var filtered=items.filter((it)=>{return it.id===id});
+
+    if(filtered.length<1){
         window.location='/';
     }
 
-    item=items[idx];
+    item=filtered[0];
 
     document.title=`Nasty Pixie - ${item.name}`;
     $('#itemName').text(item.name);
