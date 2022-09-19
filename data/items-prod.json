@@ -1,7 +1,7 @@
 [
     {
         "id":0,
-        "name":"Taza Big Mouth",
+        "name":"Taza Big Mouth 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Big Mouth'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/bm.jpg",
@@ -9,7 +9,7 @@
     },
     {
         "id":1,
-        "name":"Taza Full Metal Alchemist",
+        "name":"Taza Full Metal Alchemist 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Full Metal Alchemist'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/fma.jpg",
@@ -17,7 +17,7 @@
     },
     {
         "id":2,
-        "name":"Taza Hollow Knight (A)",
+        "name":"Taza Hollow Knight (A) 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hollow Knight'. Modelo tipo A.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hk.jpg",
@@ -25,7 +25,7 @@
     },
     {
         "id":3,
-        "name":"Taza Hollow Knight (B)",
+        "name":"Taza Hollow Knight (B) 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hollow Knight'. Modelo tipo B.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hkB.jpg",
@@ -33,7 +33,7 @@
     },
     {
         "id":4,
-        "name":"Taza Rick y Morty",
+        "name":"Taza Rick y Morty 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Rick y Morty'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/rm.jpg",
@@ -41,7 +41,7 @@
     },
     {
         "id":5,
-        "name":"Taza One Piece",
+        "name":"Taza One Piece 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'One Piece'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/op.jpg",
@@ -49,7 +49,7 @@
     },
     {
         "id":6,
-        "name":"Taza She-Hulk",
+        "name":"Taza She-Hulk 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'She-Hulk'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hulka.jpg",
@@ -57,7 +57,7 @@
     },
     {
         "id":7,
-        "name":"Taza Nasty Pixie",
+        "name":"Taza Nasty Pixie 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Nasty Pixie'.</p><p>Esta es la taza oficial 'NastyPixie' 100% original. Podrás recibir esta taza como regalo si realizas un pedido lo suficientemente grande. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/np.jpg",
@@ -150,5 +150,85 @@
         "price": 5.0,
         "thumbnail":"/data/images/gorro_targaryen.jpg",
         "images":["/data/images/gorro_targaryen1.jpg"]
+    },
+    {
+        "id":19,
+        "name":"Botella Big Mouth 400ml",
+        "desc":"<p>Botella de aluminio 'Big Mouth' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-bm2.thumb.jpg",
+        "images":["/data/images/bp-bm1.jpg","/data/images/bp-bm2.jpg","/data/images/bp-bm3.jpg"]
+    },
+    {
+        "id":20,
+        "name":"Botella Dragon Ball (A) 400ml",
+        "desc":"<p>Botella de aluminio 'Dragon Ball' (A) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-db1.thumb.jpg",
+        "images":["/data/images/bp-db1.jpg","/data/images/bp-db2.jpg"]
+    },
+    {
+        "id":21,
+        "name":"Botella Dragon Ball (B) 400ml",
+        "desc":"<p>Botella de aluminio 'Dragon Ball' (B) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-dbB4.thumb.jpg",
+        "images":["/data/images/bp-dbB1.jpg","/data/images/bp-dbB2.jpg","/data/images/bp-dbB3.jpg","/data/images/bp-dbB4.jpg"]
+    },
+    {
+        "id":22,
+        "name":"Botella Dragon Ball (C) 400ml",
+        "desc":"<p>Botella de aluminio 'Dragon Ball' (C) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-dbC1.thumb.jpg",
+        "images":["/data/images/bp-dbC1.jpg","/data/images/bp-dbC2.jpg","/data/images/bp-dbC3.jpg"]
+    },
+    {
+        "id":23,
+        "name":"Botella Full Metal Alch. 400ml",
+        "desc":"<p>Botella de aluminio 'Full Metal Alchemist' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-fma1.thumb.jpg",
+        "images":["/data/images/bp-fma1.jpg","/data/images/bp-fma2.jpg"]
+    },
+    {
+        "id":24,
+        "name":"Botella Hollow Knight 400ml",
+        "desc":"<p>Botella de aluminio 'Hollow Knight' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-hkB2.thumb.jpg",
+        "images":["/data/images/bp-hkB1.jpg","/data/images/bp-hkB2.jpg","/data/images/bp-hkB3.jpg"]
+    },
+    {
+        "id":25,
+        "name":"Botella She-Hulk 400ml",
+        "desc":"<p>Botella de aluminio 'She-Hulk' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-hulka2.thumb.jpg",
+        "images":["/data/images/bp-hulka1.jpg","/data/images/bp-hulka2.jpg","/data/images/bp-hulka3.jpg"]
+    },
+    {
+        "id":26,
+        "name":"Botella One Piece 400ml",
+        "desc":"<p>Botella de aluminio 'One Piece' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-op2.thumb.jpg",
+        "images":["/data/images/bp-op1.jpg","/data/images/bp-op2.jpg","/data/images/bp-op3.jpg"]
+    },
+    {
+        "id":27,
+        "name":"Botella Rick y Morty 400ml",
+        "desc":"<p>Botella de aluminio 'Rick y Morty' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-rm1.thumb.jpg",
+        "images":["/data/images/bp-rm1.jpg","/data/images/bp-rm2.jpg","/data/images/bp-rm3.jpg"]
+    },
+    {
+        "id":28,
+        "name":"Botella Stranger Things 400ml",
+        "desc":"<p>Botella de aluminio 'Stranger Things' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-st2.thumb.jpg",
+        "images":["/data/images/bp-st1.jpg","/data/images/bp-st2.jpg","/data/images/bp-st3.jpg"]
     }
 ]
