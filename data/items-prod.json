@@ -230,5 +230,69 @@
         "price": 10.0,
         "thumbnail":"/data/images/bp-st2.thumb.jpg",
         "images":["/data/images/bp-st1.jpg","/data/images/bp-st2.jpg","/data/images/bp-st3.jpg"]
+    },
+    {
+        "id":29,
+        "name":"Botella Halloween 400ml",
+        "desc":"<p>Botella de aluminio 'Halloween' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-hw3.thumb.jpg",
+        "images":["/data/images/bp-hw1.jpg","/data/images/bp-hw2.jpg","/data/images/bp-hw3.jpg"]
+    },
+    {
+        "id":30,
+        "name":"Botella Novia Cadáver 400ml",
+        "desc":"<p>Botella de aluminio 'Novia Cadáver' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-nc3.thumb.jpg",
+        "images":["/data/images/bp-nc1.jpg","/data/images/bp-nc2.jpg","/data/images/bp-nc3.jpg"]
+    },
+    {
+        "id":31,
+        "name":"Botella Pesadilla 400ml",
+        "desc":"<p>Botella de aluminio 'Pesadilla Antes de Navidad' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-pa2.thumb.jpg",
+        "images":["/data/images/bp-pa1.jpg","/data/images/bp-pa2.jpg","/data/images/bp-pa3.jpg"]
+    },
+    {
+        "id":32,
+        "name":"Botella Tim Burton 400ml",
+        "desc":"<p>Botella de aluminio 'Personajes de Tim Burton' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
+        "price": 10.0,
+        "thumbnail":"/data/images/bp-tbA1.thumb.jpg",
+        "images":["/data/images/bp-tbA1.jpg","/data/images/bp-tbA2.jpg","/data/images/bp-tbA3.jpg","/data/images/bp-tbA4.jpg"]
+    },
+    {
+        "id":33,
+        "name":"Taza Jack Skelleton 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Jack Skelleton'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/js2.thumb.jpg",
+        "images":["/data/images/js1.jpg","/data/images/js2.jpg","/data/images/js3.jpg"]
+    },
+    {
+        "id":34,
+        "name":"Taza Novia Cadáver 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Novia Cadáver'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/ncB1.thumb.jpg",
+        "images":["/data/images/ncB1.jpg","/data/images/ncB2.jpg","/data/images/ncB3.jpg"]
+    },
+    {
+        "id":35,
+        "name":"Taza Jack Grafiti 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Grafiti de Jack Skelleton'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/jsB2.thumb.jpg",
+        "images":["/data/images/jsB1.jpg","/data/images/jsB2.jpg","/data/images/jsB3.jpg"]
+    },
+    {
+        "id":36,
+        "name":"Taza Calabazas Halloween 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Calabazas de Halloween'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hwB1.thumb.jpg",
+        "images":["/data/images/hwB1.jpg","/data/images/hwB2.jpg","/data/images/hwB3.jpg"]
     }
 ]
