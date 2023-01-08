@@ -294,5 +294,117 @@
         "price": 8.0,
         "thumbnail":"/data/images/hwB1.thumb.jpg",
         "images":["/data/images/hwB1.jpg","/data/images/hwB2.jpg","/data/images/hwB3.jpg"]
+    },
+    {
+        "id":37,
+        "name":"Taza Reyes Magos 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Reyes Magos'.</p><p>Taza especial para niños, con la imagen de los Reyes Magos. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/rmagos2.thumb.jpg",
+        "images":["/data/images/rmagos1.jpg","/data/images/rmagos2.jpg","/data/images/rmagos3.jpg"]
+    },
+    {
+        "id":38,
+        "name":"Taza Miércoles Addams 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Miércoles Addams'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/ma2.thumb.jpg",
+        "images":["/data/images/ma1.jpg","/data/images/ma2.jpg","/data/images/ma3.jpg"]
     }
+
+    ,
+    {
+        "id":39,
+        "name":"Taza Dobby Harry Potter 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Dobby Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-dobby.thumb.jpg",
+        "images":["/data/images/hp-taza-dobby.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":40,
+        "name":"Taza Dumbledore Harry Potter Addams 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Dumbledore Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-dumbledore.thumb.jpg",
+        "images":["/data/images/hp-taza-dumbledore.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":41,
+        "name":"Taza Hagrid Harry Potter 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hagrid Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-hagrid.thumb.jpg",
+        "images":["/data/images/hp-taza-hagrid.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":42,
+        "name":"Taza Harry Potter Profecía 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Harry Potter Profecía'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-harry1.thumb.jpg",
+        "images":["/data/images/hp-taza-harry1.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":43,
+        "name":"Taza Harry Potter Escoba 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Harry Potter Escoba'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-harry2.thumb.jpg",
+        "images":["/data/images/hp-taza-harry2.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":44,
+        "name":"Taza Hermione Granger Harry Potter 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hermione Granger Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-hermione.thumb.jpg",
+        "images":["/data/images/hp-taza-hermione.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":45,
+        "name":"Taza Luna Lovewood Harry Potter 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Luna Lovewood Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-luna.thumb.jpg",
+        "images":["/data/images/hp-taza-luna.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":46,
+        "name":"Taza Ojoloco Moody Harry Potter 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Ojoloco Moody Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-moody.thumb.jpg",
+        "images":["/data/images/hp-taza-moody.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":47,
+        "name":"Taza Ron Weasley Harry Potter 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Ron Weasley Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-ron.thumb.jpg",
+        "images":["/data/images/hp-taza-ron.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    ,
+    {
+        "id":48,
+        "name":"Taza Voldemort Harry Potter 250ml",
+        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Voldemort Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
+        "price": 8.0,
+        "thumbnail":"/data/images/hp-taza-voldemort.thumb.jpg",
+        "images":["/data/images/hp-taza-voldemort.jpg","/data/images/hp-taza-1.jpg"]
+    }
+    
+    
+
+
+
 ]
