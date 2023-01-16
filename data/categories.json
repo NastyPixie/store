@@ -1,12 +1,11 @@
 [
-    {"id":"TAZA","name":"Tazas","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
-    {"id":"BOTELLA","name":"Botellas de Aluminio","desc":"Botellas de aluminio personalizables"},
-    {"id":"MOCHILA","name":"Mochilas Saco","desc":"Mochilas de cuerda personalizables de diferentes tamaños."},
-    {"id":"ESCOLAR","name":"Escolar","desc":"Estuches y mochilas de asas personalizables"},
-    {"id":"NECESER","name":"Neceseres","desc":"Neceseres"},
-    {"id":"CAMISETA","name":"Camisetas","desc":"Camisetas"},
-    {"id":"GORRO","name":"Gorros","desc":"Gorros"},
-    {"id":"PULSERA","name":"Pulseras Celebración","desc":"Pulseras personalizables para celebraciones como bautizos, comuniones, bodas o despedidas."},
-    {"id":"ALFOMBRILLA","name":"Alfombrillas Ratón","desc":"Alfombrillas para ratón personalizables"},
-    {"id":"LLAVERO","name":"Llaveros","desc":"Llaveros personalizables"}
+    {"id":"VIDEOJUEGOS","name":"Videojuegos","image":"/data/images/mochila_cupB.jpg","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"SERIES","name":"Series","image":"/data/images/ma2.thumb.jpg","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"ANIME","name":"Anime","image":"/data/images/sailorm1.thumb.jpg","desc":"Tazas de porcelana personalizables de 250ml y 350 ml. Tazas de porcelana personalizables de 250ml y 350 ml. Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"NAVIDAD","name":"Navidad","image":"/data/images/rmagos2.thumb.jpg","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"HALLOWEEN","name":"Halloween","image":"/data/images/bp-hw3.thumb.jpg","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"CINE","name":"Cine","image":"/data/images/bp-hogwarts1.thumb.jpg","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"ENAMORADOS","image":"/data/images/valminmickC2.thumb.jpg","name":"Enamorados","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"DIVERTIDAS","image":"/data/images/stickmanmug1.thumb.jpg","name":"Divertidas","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."},
+    {"id":"PERSONALIZABLE","image":"/data/images/mousepad.jpg","name":"Personalizable","desc":"Tazas de porcelana personalizables de 250ml y 350 ml."}
 ]
