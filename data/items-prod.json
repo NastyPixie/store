@@ -1,7 +1,6 @@
 [
     {
         "id":0,
-        "category":["SERIES"],
         "name":"Taza Big Mouth 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Big Mouth'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -10,7 +9,6 @@
     },
     {
         "id":1,
-        "category":"ANIME",
         "name":"Taza Full Metal Alchemist 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Full Metal Alchemist'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -19,7 +17,6 @@
     },
     {
         "id":2,
-        "category":["VIDEOJUEGOS"],
         "name":"Taza Hollow Knight (A) 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hollow Knight'. Modelo tipo A.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -28,7 +25,6 @@
     },
     {
         "id":3,
-        "category":["VIDEOJUEGOS"],
         "name":"Taza Hollow Knight (B) 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hollow Knight'. Modelo tipo B.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -37,7 +33,6 @@
     },
     {
         "id":4,
-        "category":["SERIES"],
         "name":"Taza Rick y Morty 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Rick y Morty'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -46,7 +41,6 @@
     },
     {
         "id":5,
-        "category":"ANIME",
         "name":"Taza One Piece 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'One Piece'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -55,7 +49,6 @@
     },
     {
         "id":6,
-        "category":["SERIES"],
         "name":"Taza She-Hulk 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'She-Hulk'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -64,7 +57,6 @@
     },
     {
         "id":7,
-        "category":["PERSONALIZABLE"],
         "name":"Taza Nasty Pixie 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Nasty Pixie'.</p><p>Esta es la taza oficial 'NastyPixie' 100% original. Podrás recibir esta taza como regalo si realizas un pedido lo suficientemente grande. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -73,7 +65,6 @@
     },
     {
         "id":8,
-        "category":["PERSONALIZABLE"],
         "name":"Alfombrilla Personalizada",
         "desc":"<p>Alfombrilla de ratón de 22cm de ancho y 18cm de alto. Tiene una superficie de tela texturizada y una base antideslizante de alta densidad.</p><p>Este artículo será personalizado con tu imagen preferida.</p>",
         "price": 6.0,
@@ -82,7 +73,6 @@
     },
     {
         "id":9,
-        "category":["VIDEOJUEGOS"],
         "name":"Mochila Saco Cuphead (A)",
         "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Cuphead' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
         "price": 15.0,
@@ -91,7 +81,6 @@
     },
     {
         "id":10,
-        "category":["VIDEOJUEGOS"],
         "name":"Mochila Saco Cuphead (B)",
         "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Cuphead' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
         "price": 15.0,
@@ -100,7 +89,6 @@
     },
     {
         "id":11,
-        "category":["VIDEOJUEGOS"],
         "name":"Mochila Saco Hollow Knight (A)",
         "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Hollow Knight' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
         "price": 15.0,
@@ -109,7 +97,6 @@
     },
     {
         "id":12,
-        "category":["VIDEOJUEGOS"],
         "name":"Mochila Saco Hollow Knight (B)",
         "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Hollow Knight' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
         "price": 15.0,
@@ -118,7 +105,6 @@
     },
     {
         "id":13,
-        "category":["SERIES"],
         "name":"Mochila Saco Rick y Morty",
         "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Rick y Morty' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
         "price": 15.0,
@@ -127,7 +113,6 @@
     },
     {
         "id":14,
-        "category":["SERIES"],
         "name":"Mochila Saco Stranger Things",
         "desc":"<p>Mochila saco confeccionada a mano, con tejido 100% de poliester suave y resistente de gran calidad. Cordón 100% de algodón trenzado resistente y suave. </p><p>La cara exterior está decorada con motivo 'Stranger Things' en toda su superficie.</p><p>Sus dimensiones aproximadas son 35 cm de alto y 30 cm de ancho.</p>",
         "price": 15.0,
@@ -136,7 +121,6 @@
     },
     {
         "id":15,
-        "category":["VIDEOJUEGOS"],
         "name":"Gorro Cuphead",
         "desc":"<p>Gorro invernal blanco 95% poliester, 5% elastano, con tejido de coralina o tipo sudadera en el interior, decorado con motivo 'Cuphead'. </p><p>Tiene un tallaje universal para adulto.</p><p>Sus dimensiones aproximadas son 19 cm de alto y 27cm cm de ancho.</p>",
         "price": 5.0,
@@ -145,7 +129,6 @@
     },
     {
         "id":16,
-        "category":["SERIES"],
         "name":"Gorro Rick y Morty",
         "desc":"<p>Gorro invernal blanco 95% poliester, 5% elastano, con tejido de coralina o tipo sudadera en el interior, decorado con motivo 'Rick y Morty'. </p><p>Tiene un tallaje universal para adulto.</p><p>Sus dimensiones aproximadas son 19 cm de alto y 27cm cm de ancho.</p>",
         "price": 5.0,
@@ -154,7 +137,6 @@
     },
     {
         "id":17,
-        "category":["CINE"],
         "name":"Gorro Jack Skelleton",
         "desc":"<p>Gorro invernal blanco 95% poliester, 5% elastano, con tejido de coralina o tipo sudadera en el interior, decorado con motivo 'Jack Skelleton'. </p><p>Tiene un tallaje universal para adulto.</p><p>Sus dimensiones aproximadas son 19 cm de alto y 27cm cm de ancho.</p>",
         "price": 5.0,
@@ -163,7 +145,6 @@
     },
     {
         "id":18,
-        "category":["SERIES"],
         "name":"Gorro Casa Targaryen",
         "desc":"<p>Gorro invernal blanco 95% poliester, 5% elastano, con tejido de coralina o tipo sudadera en el interior, decorado con motivo 'Casa Targaryen'. </p><p>Tiene un tallaje universal para adulto.</p><p>Sus dimensiones aproximadas son 19 cm de alto y 27cm cm de ancho.</p>",
         "price": 5.0,
@@ -172,7 +153,6 @@
     },
     {
         "id":19,
-        "category":["SERIES"],
         "name":"Botella Big Mouth 400ml",
         "desc":"<p>Botella de aluminio 'Big Mouth' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -181,7 +161,6 @@
     },
     {
         "id":20,
-        "category":"ANIME",
         "name":"Botella Dragon Ball (A) 400ml",
         "desc":"<p>Botella de aluminio 'Dragon Ball' (A) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -190,7 +169,6 @@
     },
     {
         "id":21,
-        "category":"ANIME",
         "name":"Botella Dragon Ball (B) 400ml",
         "desc":"<p>Botella de aluminio 'Dragon Ball' (B) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -199,7 +177,6 @@
     },
     {
         "id":22,
-        "category":"ANIME",
         "name":"Botella Dragon Ball (C) 400ml",
         "desc":"<p>Botella de aluminio 'Dragon Ball' (C) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -208,7 +185,6 @@
     },
     {
         "id":23,
-        "category":"ANIME",
         "name":"Botella Full Metal Alch. 400ml",
         "desc":"<p>Botella de aluminio 'Full Metal Alchemist' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -217,7 +193,6 @@
     },
     {
         "id":24,
-        "category":["VIDEOJUEGOS"],
         "name":"Botella Hollow Knight 400ml",
         "desc":"<p>Botella de aluminio 'Hollow Knight' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -226,7 +201,6 @@
     },
     {
         "id":25,
-        "category":["SERIES"],
         "name":"Botella She-Hulk 400ml",
         "desc":"<p>Botella de aluminio 'She-Hulk' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -235,7 +209,6 @@
     },
     {
         "id":26,
-        "category":"ANIME",
         "name":"Botella One Piece 400ml",
         "desc":"<p>Botella de aluminio 'One Piece' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -244,7 +217,6 @@
     },
     {
         "id":27,
-        "category":["SERIES"],
         "name":"Botella Rick y Morty 400ml",
         "desc":"<p>Botella de aluminio 'Rick y Morty' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -253,7 +225,6 @@
     },
     {
         "id":28,
-        "category":["SERIES"],
         "name":"Botella Stranger Things 400ml",
         "desc":"<p>Botella de aluminio 'Stranger Things' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -262,7 +233,6 @@
     },
     {
         "id":29,
-        "category":["HALLOWEEN"],
         "name":"Botella Halloween 400ml",
         "desc":"<p>Botella de aluminio 'Halloween' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -271,7 +241,6 @@
     },
     {
         "id":30,
-        "category":["CINE","HALLOWEEN"],
         "name":"Botella Novia Cadáver 400ml",
         "desc":"<p>Botella de aluminio 'Novia Cadáver' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -280,7 +249,6 @@
     },
     {
         "id":31,
-        "category":["CINE","HALLOWEEN"],
         "name":"Botella Pesadilla 400ml",
         "desc":"<p>Botella de aluminio 'Pesadilla Antes de Navidad' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -289,7 +257,6 @@
     },
     {
         "id":32,
-        "category":["CINE","HALLOWEEN"],
         "name":"Botella Tim Burton 400ml",
         "desc":"<p>Botella de aluminio 'Personajes de Tim Burton' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -298,7 +265,6 @@
     },
     {
         "id":33,
-        "category":["CINE","HALLOWEEN"],
         "name":"Taza Jack Skelleton 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Jack Skelleton'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -307,7 +273,6 @@
     },
     {
         "id":34,
-        "category":["CINE","HALLOWEEN"],
         "name":"Taza Novia Cadáver 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Novia Cadáver'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -316,7 +281,6 @@
     },
     {
         "id":35,
-        "category":["CINE","HALLOWEEN"],
         "name":"Taza Jack Grafiti 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Grafiti de Jack Skelleton'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -325,7 +289,6 @@
     },
     {
         "id":36,
-        "category":["HALLOWEEN"],
         "name":"Taza Calabazas Halloween 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Calabazas de Halloween'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -334,7 +297,6 @@
     },
     {
         "id":37,
-        "category":["NAVIDAD"],
         "name":"Taza Reyes Magos 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Reyes Magos'.</p><p>Taza especial para niños, con la imagen de los Reyes Magos. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -343,16 +305,16 @@
     },
     {
         "id":38,
-        "category":["SERIES"],
         "name":"Taza Miércoles Addams 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Miércoles Addams'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/ma2.thumb.jpg",
         "images":["/data/images/ma1.jpg","/data/images/ma2.jpg","/data/images/ma3.jpg"]
-    },
+    }
+
+    ,
     {
         "id":39,
-        "category":["CINE"],
         "name":"Taza Dobby 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Dobby Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -362,324 +324,84 @@
     ,
     {
         "id":40,
-        "category":["CINE"],
         "name":"Taza Dumbledore 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Dumbledore Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-dumbledore.thumb.jpg",
         "images":["/data/images/hp-taza-dumbledore.jpg","/data/images/hp-taza-1.jpg"]
-    },
+    }
+    ,
     {
         "id":41,
-        "category":["CINE"],
         "name":"Taza Hagrid 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hagrid Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-hagrid.thumb.jpg",
         "images":["/data/images/hp-taza-hagrid.jpg","/data/images/hp-taza-1.jpg"]
-    },
+    }
+    ,
     {
         "id":42,
-        "category":["CINE"],
         "name":"Taza Harry Profecía 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Harry Potter Profecía'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-harry1.thumb.jpg",
         "images":["/data/images/hp-taza-harry1.jpg","/data/images/hp-taza-1.jpg"]
-    },
+    }
+    ,
     {
         "id":43,
-        "category":["CINE"],
         "name":"Taza Harry Escoba 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Harry Potter Escoba'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-harry2.thumb.jpg",
         "images":["/data/images/hp-taza-harry2.jpg","/data/images/hp-taza-1.jpg"]
-    },
+    }
+    ,
     {
         "id":44,
-        "category":["CINE"],
         "name":"Taza Hermione 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hermione Granger Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-hermione.thumb.jpg",
         "images":["/data/images/hp-taza-hermione.jpg","/data/images/hp-taza-1.jpg"]
-    },
+    }
+    ,
     {
         "id":45,
-        "category":["CINE"],
         "name":"Taza Luna 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Luna Lovewood Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-luna.thumb.jpg",
         "images":["/data/images/hp-taza-luna.jpg","/data/images/hp-taza-1.jpg"]
-    },
+    }
+    ,
     {
         "id":46,
-        "category":["CINE"],
         "name":"Taza Ojoloco 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Ojoloco Moody Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-moody.thumb.jpg",
         "images":["/data/images/hp-taza-moody.jpg","/data/images/hp-taza-1.jpg"]
-    },
+    }
+    ,
     {
         "id":47,
-        "category":["CINE"],
         "name":"Taza Ron 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Ron Weasley Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-ron.thumb.jpg",
         "images":["/data/images/hp-taza-ron.jpg","/data/images/hp-taza-1.jpg"]
-    },
+    }
+    ,
     {
         "id":48,
-        "category":["CINE"],
         "name":"Taza Voldemort 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Voldemort Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
         "thumbnail":"/data/images/hp-taza-voldemort.thumb.jpg",
         "images":["/data/images/hp-taza-voldemort.jpg","/data/images/hp-taza-1.jpg"]
-    },
-    {
-        "id":49,
-        "category":["CINE"],
-        "name":"Taza Hogwarts 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hogwarts Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/hp-escudo2.thumb.jpg",
-        "images":["/data/images/hp-escudo2.jpg","/data/images/hp-escudo1.jpg"]
-    },
-    {
-        "id":50,
-        "category":["CINE"],
-        "name":"Taza Griffindor 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Gryffindor Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/hp-gryffindor2.thumb.jpg",
-        "images":["/data/images/hp-gryffindor2.jpg","/data/images/hp-gryffindor1.jpg"]
-    },
-    {
-        "id":51,
-        "category":["CINE"],
-        "name":"Taza Slytherin 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Slytherin Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/hp-slytherin2.thumb.jpg",
-        "images":["/data/images/hp-slytherin2.jpg","/data/images/hp-slytherin1.jpg"]
-    },
-    {
-        "id":52,
-        "category":["CINE"],
-        "name":"Taza Ravenclaw 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Ravenclaw Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/hp-ravenclaw2.thumb.jpg",
-        "images":["/data/images/hp-ravenclaw2.jpg","/data/images/hp-ravenclaw1.jpg"]
-    },
-    {
-        "id":53,
-        "category":["CINE"],
-        "name":"Taza Hufflepuff 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Hufflepuff Harry Potter'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/hp-hufflepuff2.thumb.jpg",
-        "images":["/data/images/hp-hufflepuff2.jpg","/data/images/hp-hufflepuff1.jpg"]
-    },
-    {
-        "id":54,
-        "category":["ENAMORADOS"],
-        "name":"Taza Minnie (B) 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Minnie'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/valminnieB1.thumb.jpg",
-        "images":["/data/images/valminnieB1.jpg","/data/images/valminnieB2.jpg"]
-    },
-    {
-        "id":55,
-        "category":["ENAMORADOS"],
-        "name":"Taza Mickey (B) 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Mickey'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/valmickeyB2.thumb.jpg",
-        "images":["/data/images/valmickeyB2.jpg","/data/images/valmickeyB1.jpg"]
-    },
-    {
-        "id":56,
-        "category":["ENAMORADOS"],
-        "name":"Taza Mickey 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Mickey'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/valmickey2.thumb.jpg",
-        "images":["/data/images/valmickey2.jpg","/data/images/valmickey1.jpg"]
-    },
-    {
-        "id":57,
-        "category":["ENAMORADOS"],
-        "name":"Taza Minnie 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Minnie'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/valminnie2.thumb.jpg",
-        "images":["/data/images/valminnie2.jpg","/data/images/valminnie1.jpg"]
-    },
-    {
-        "id":58,
-        "category":["ENAMORADOS"],
-        "name":"Taza Mickey y Minnie 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Mickey y Minnie'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/valminmick2.thumb.jpg",
-        "images":["/data/images/valminmick2.jpg","/data/images/valminmick1.jpg"]
-    },
-    {
-        "id":59,
-        "category":["ENAMORADOS"],
-        "name":"Taza Mickey y Minnie (B) 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Mickey y Minnie'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/valminmickB3.thumb.jpg",
-        "images":["/data/images/valminmickB3.jpg", "/data/images/valminmickB1.jpg","/data/images/valminmickB2.jpg"]
-    },
-    {
-        "id":60,
-        "category":["ENAMORADOS"],
-        "name":"Taza Mickey y Minnie (C) 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Mickey y Minnie'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/valminmickC2.thumb.jpg",
-        "images":["/data/images/valminmickC2.jpg","/data/images/valminmickC1.jpg"]
     }
-
-    ,
-    {
-        "id":61,
-        "category":["ANIME"],
-        "name":"Taza Sailor Moon 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Sailor Moon'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/sailorm1.thumb.jpg",
-        "images":["/data/images/sailorm1.jpg","/data/images/sailorm2.jpg"]
-    },
-    {
-        "id":62,
-        "category":["DIVERTIDAS"],
-        "name":"Taza Monigote 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Monigote'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/stickmanmug1.thumb.jpg",
-        "images":["/data/images/stickmanmug1.jpg","/data/images/stickmanmug2.jpg"]
-    },
-    {
-        "id":63,
-        "category":["DIVERTIDAS","ENAMORADOS"],
-        "name":"Taza Entrenamiento 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Entrenamiento Cardiovascular'.</p><p>Esta taza es un regalo ideal para parejas. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/trainmug2.thumb.jpg",
-        "images":["/data/images/trainmug2.jpg","/data/images/trainmug1.jpg"]
-    },
-    {
-        "id":64,
-        "category":["DIVERTIDAS","ENAMORADOS"],
-        "name":"Taza Eres mi Sol 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Eres mi Sol'.</p><p>Esta taza es un regalo ideal para parejas. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/solmug1.thumb.jpg",
-        "images":["/data/images/solmug1.jpg","/data/images/solmug2.jpg"]
-    },
-    {
-        "id":65,
-        "category":["DIVERTIDAS","ENAMORADOS"],
-        "name":"Taza Amor Simpsons 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Amor Simpsons'.</p><p>Esta taza es un regalo ideal para parejas. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/simpsonslove1.thumb.jpg",
-        "images":["/data/images/simpsonslove1.jpg","/data/images/simpsonslove2.jpg"]
-    },
-    {
-        "id":66,
-        "category":["DIVERTIDAS"],
-        "name":"Taza TikTok 250ml",
-        "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'TikTok'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
-        "price": 8.0,
-        "thumbnail":"/data/images/tiktokmug1.thumb.jpg",
-        "images":["/data/images/tiktokmug1.jpg","/data/images/tiktokmug2.jpg"]
-    },
-    {
-        "id":67,
-        "category":["CINE"],
-        "name":"Botella Hogwarts 400ml",
-        "desc":"<p>Botella de aluminio 'Hogwarts Harry Potter' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
-        "price": 10.0,
-        "thumbnail":"/data/images/bp-hogwarts1.thumb.jpg",
-        "images":["/data/images/bp-hogwarts1.jpg","/data/images/bp-hogwarts2.jpg"]
-    },
-    {
-        "id":68,
-        "category":["CINE"],
-        "name":"Botella Gryffindor 400ml",
-        "desc":"<p>Botella de aluminio 'Gryffindor Harry Potter' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
-        "price": 10.0,
-        "thumbnail":"/data/images/bp-gryffindor1.thumb.jpg",
-        "images":["/data/images/bp-gryffindor1.jpg","/data/images/bp-gryffindor2.jpg"]
-    },
-    {
-        "id":69,
-        "category":["CINE"],
-        "name":"Botella Slytherin 400ml",
-        "desc":"<p>Botella de aluminio 'Slytherin Harry Potter' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
-        "price": 10.0,
-        "thumbnail":"/data/images/bp-slytherin1.thumb.jpg",
-        "images":["/data/images/bp-slytherin1.jpg","/data/images/bp-slytherin2.jpg"]
-    },
-    {
-        "id":70,
-        "category":["CINE"],
-        "name":"Botella Ravenclaw 400ml",
-        "desc":"<p>Botella de aluminio 'Ravenclaw Harry Potter' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
-        "price": 10.0,
-        "thumbnail":"/data/images/bp-ravenclaw1.thumb.jpg",
-        "images":["/data/images/bp-ravenclaw1.jpg","/data/images/bp-ravenclaw2.jpg"]
-    },
-    {
-        "id":71,
-        "category":["CINE"],
-        "name":"Botella Hufflepuff 400ml",
-        "desc":"<p>Botella de aluminio 'Hufflepuff Harry Potter' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
-        "price": 10.0,
-        "thumbnail":"/data/images/bp-hufflepuff1.thumb.jpg",
-        "images":["/data/images/bp-hufflepuff1.jpg","/data/images/bp-hufflepuff2.jpg"]
-    },
-    {
-        "id":72,
-        "category":["ENAMORADOS"],
-        "name":"Botella Mickey y Minnie 400ml",
-        "desc":"<p>Botella de aluminio 'Mickey y Minnie' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
-        "price": 10.0,
-        "thumbnail":"/data/images/bp-mickmin1.thumb.jpg",
-        "images":["/data/images/bp-mickmin1.jpg","/data/images/bp-mickmin2.jpg"]
-    },
-    {
-        "id":73,
-        "category":["ENAMORADOS"],
-        "name":"Botella Mickey y Minnie (B) 400ml",
-        "desc":"<p>Botella de aluminio 'Mickey y Minnie' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
-        "price": 10.0,
-        "thumbnail":"/data/images/bp-mickminB1.thumb.jpg",
-        "images":["/data/images/bp-mickminB1.jpg","/data/images/bp-mickminB2.jpg","/data/images/bp-mickminB3.jpg","/data/images/bp-mickminB4.jpg"]
-    },
-    {
-        "id":74,
-        "category":["ANIME"],
-        "name":"Botella Dragon Ball Z Super (B) 400ml",
-        "desc":"<p>Botella de aluminio 'Dragon Ball Z Super' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
-        "price": 10.0,
-        "thumbnail":"/data/images/bp-dbD1.thumb.jpg",
-        "images":["/data/images/bp-dbD1.jpg","/data/images/bp-dbD2.jpg"]
-    }
-    
-    
-    
     
     
 
