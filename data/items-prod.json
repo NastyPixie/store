@@ -10,7 +10,7 @@
     },
     {
         "id":1,
-        "category":"ANIME",
+        "category":["ANIME"],
         "name":"Taza Full Metal Alchemist 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'Full Metal Alchemist'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -46,7 +46,7 @@
     },
     {
         "id":5,
-        "category":"ANIME",
+        "category":["ANIME"],
         "name":"Taza One Piece 250ml",
         "desc":"<p>Taza de porcelana blanca de 250ml con decoración 'One Piece'.</p><p>Esta taza es un regalo ideal para fans que siempre te agradecerán. Disponemos de varios modelos de taza, pero si ninguno se ajusta a lo que buscas siempre puedes contactar con nosotros directamente para hacer una taza personalizada.</p>",
         "price": 8.0,
@@ -181,7 +181,7 @@
     },
     {
         "id":20,
-        "category":"ANIME",
+        "category":["ANIME"],
         "name":"Botella Dragon Ball (A) 400ml",
         "desc":"<p>Botella de aluminio 'Dragon Ball' (A) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -190,7 +190,7 @@
     },
     {
         "id":21,
-        "category":"ANIME",
+        "category":["ANIME"],
         "name":"Botella Dragon Ball (B) 400ml",
         "desc":"<p>Botella de aluminio 'Dragon Ball' (B) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -199,7 +199,7 @@
     },
     {
         "id":22,
-        "category":"ANIME",
+        "category":["ANIME"],
         "name":"Botella Dragon Ball (C) 400ml",
         "desc":"<p>Botella de aluminio 'Dragon Ball' (C) con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -208,7 +208,7 @@
     },
     {
         "id":23,
-        "category":"ANIME",
+        "category":["ANIME"],
         "name":"Botella Full Metal Alch. 400ml",
         "desc":"<p>Botella de aluminio 'Full Metal Alchemist' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
@@ -235,7 +235,7 @@
     },
     {
         "id":26,
-        "category":"ANIME",
+        "category":["ANIME"],
         "name":"Botella One Piece 400ml",
         "desc":"<p>Botella de aluminio 'One Piece' con tapón de seguridad a rosca y mosquetón metálico para su transporte. Es resistente y tiene una capacidad de 400ml.</p><p>Esta botella la puedes usar para tu día a día mientras estás en el trabajo, practicas deporte etc. Es perfecta para mantenerte hidratado mientras estás fuera de casa. Debido a su tamaño, los niños podrán llevarla al colegio o de excursión cómodamente.</p>",
         "price": 10.0,
